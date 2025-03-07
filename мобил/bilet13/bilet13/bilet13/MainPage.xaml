@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:bilet13"
+             x:Class="bilet13.MainPage">
+    <StackLayout Padding="30" BackgroundColor="Gray">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <BoxView Grid.ColumnSpan="4" Grid.RowSpan="5" Color="White" CornerRadius="20" />
+
+            <Label Grid.Column="0" Grid.Row="0"  Text="Email" FontSize="Large" TextColor="Black" />
+            <Entry Grid.Column="1" Grid.Row="0" Placeholder="eryer@mail.ru" Text="" PlaceholderColor="Green" />
+            <Label Grid.Column="0" Grid.Row="1"  x:Name="Pasw" Text="{x:Static local:AppResources.PasswordPole}" FontSize="Large" TextColor="Black" />
+            <Entry Grid.Column="1" Grid.Row="1" Placeholder="{x:Static local:AppResources.PasswordPole}"  IsPassword="True" PlaceholderColor="DarkRed" />
+            <Button Grid.Row="2" Grid.Column="0" x:Name="Loga" Text ="{x:Static local:AppResources.LoginBut}" CornerRadius="15" BorderColor="Black" BorderWidth="1" TextColor="DarkBlue" Padding="20" WidthRequest="200" Grid.ColumnSpan="4" />
+        </Grid>
+
+
+        <Button x:Name="rega" Text ="{x:Static local:AppResources.RegistBut}" CornerRadius="15" BorderColor="Black" BorderWidth="1" TextColor="DarkBlue" />
+        <Button x:Name="Forgot" Text="{x:Static local:AppResources.ForgotPassBut}" CornerRadius="15" BorderColor="Black" BorderWidth="1" TextColor="DarkBlue"/>
+
+    </StackLayout>
+</ContentPage>

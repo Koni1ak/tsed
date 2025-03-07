@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bil2.MainPage">
+
+    <Grid BackgroundColor="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+            <Image Source="Logo.jpg" />
+            <Label Text="Заставка" FontSize="Large" />
+        </StackLayout>
+
+        <ActivityIndicator Grid.Row="1" IsRunning="True" IsVisible="True" />
+    </Grid>
+</ContentPage>

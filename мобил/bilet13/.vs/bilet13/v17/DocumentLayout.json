@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41DCA852-6229-4AF9-BA39-E015A728975D}|bilet13\\bilet13\\bilet13.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\ex\\bilet13\\bilet13\\bilet13\\appresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DCA852-6229-4AF9-BA39-E015A728975D}|bilet13\\bilet13\\bilet13.csproj|solutionrelative:bilet13\\bilet13\\appresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DCA852-6229-4AF9-BA39-E015A728975D}|bilet13\\bilet13\\bilet13.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\ex\\bilet13\\bilet13\\bilet13\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DCA852-6229-4AF9-BA39-E015A728975D}|bilet13\\bilet13\\bilet13.csproj|solutionrelative:bilet13\\bilet13\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DCA852-6229-4AF9-BA39-E015A728975D}|bilet13\\bilet13\\bilet13.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\ex\\bilet13\\bilet13\\bilet13\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{41DCA852-6229-4AF9-BA39-E015A728975D}|bilet13\\bilet13\\bilet13.csproj|solutionrelative:bilet13\\bilet13\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DCA852-6229-4AF9-BA39-E015A728975D}|bilet13\\bilet13\\bilet13.csproj|c:\\users\\\u043B\u0430\u0434\u0430\\desktop\\ex\\bilet13\\bilet13\\bilet13\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DCA852-6229-4AF9-BA39-E015A728975D}|bilet13\\bilet13\\bilet13.csproj|solutionrelative:bilet13\\bilet13\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DCA852-6229-4AF9-BA39-E015A728975D}|bilet13\\bilet13\\bilet13.csproj|C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\resource.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{41DCA852-6229-4AF9-BA39-E015A728975D}|bilet13\\bilet13\\bilet13.csproj|solutionrelative:bilet13\\bilet13\\resource.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DCA852-6229-4AF9-BA39-E015A728975D}|bilet13\\bilet13\\bilet13.csproj|C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\resource.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{41DCA852-6229-4AF9-BA39-E015A728975D}|bilet13\\bilet13\\bilet13.csproj|solutionrelative:bilet13\\bilet13\\resource.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "bilet13\\bilet13\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\AssemblyInfo.cs",
+              "RelativeToolTip": "bilet13\\bilet13\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:37:26.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppResources.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\AppResources.cs",
+              "RelativeDocumentMoniker": "bilet13\\bilet13\\AppResources.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\AppResources.cs",
+              "RelativeToolTip": "bilet13\\bilet13\\AppResources.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T18:02:09.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource.ru.resx",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\Resource.ru.resx",
+              "RelativeDocumentMoniker": "bilet13\\bilet13\\Resource.ru.resx",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\Resource.ru.resx",
+              "RelativeToolTip": "bilet13\\bilet13\\Resource.ru.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-02-21T18:00:29.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resource.en.resx",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\Resource.en.resx",
+              "RelativeDocumentMoniker": "bilet13\\bilet13\\Resource.en.resx",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\Resource.en.resx",
+              "RelativeToolTip": "bilet13\\bilet13\\Resource.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-02-21T17:57:22.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "bilet13\\bilet13\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\MainPage.xaml.cs",
+              "RelativeToolTip": "bilet13\\bilet13\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T17:23:51.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\MainPage.xaml",
+              "RelativeDocumentMoniker": "bilet13\\bilet13\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\\u041B\u0430\u0434\u0430\\Desktop\\EX\\bilet13\\bilet13\\bilet13\\MainPage.xaml",
+              "RelativeToolTip": "bilet13\\bilet13\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-21T17:23:41.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

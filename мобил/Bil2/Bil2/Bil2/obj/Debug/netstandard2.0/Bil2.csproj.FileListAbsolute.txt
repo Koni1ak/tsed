@@ -1,0 +1,48 @@
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\bin\Debug\netstandard2.0\Bil2.deps.json
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\bin\Debug\netstandard2.0\Bil2.dll
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\bin\Debug\netstandard2.0\ref\Bil2.dll
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\bin\Debug\netstandard2.0\Bil2.pdb
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.csproj.AssemblyReference.cache
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\StudentPage.xaml.g.cs
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.AssemblyInfoInputs.cache
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.AssemblyInfo.cs
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.csproj.CoreCompileInputs.cache
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.dll
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\refint\Bil2.dll
+C:\Users\MoonLeaf\Desktop\Новая папка\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.pdb
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\bin\Debug\netstandard2.0\Bil2.deps.json
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\bin\Debug\netstandard2.0\Bil2.dll
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\bin\Debug\netstandard2.0\ref\Bil2.dll
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\bin\Debug\netstandard2.0\Bil2.pdb
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.csproj.AssemblyReference.cache
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\StudentPage.xaml.g.cs
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.AssemblyInfoInputs.cache
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.AssemblyInfo.cs
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.dll
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\refint\Bil2.dll
+C:\Users\katar\OneDrive\Рабочий стол\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.pdb
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\bin\Debug\netstandard2.0\Bil2.deps.json
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\bin\Debug\netstandard2.0\Bil2.dll
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\bin\Debug\netstandard2.0\ref\Bil2.dll
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\bin\Debug\netstandard2.0\Bil2.pdb
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.csproj.AssemblyReference.cache
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\StudentPage.xaml.g.cs
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.AssemblyInfoInputs.cache
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.AssemblyInfo.cs
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.csproj.CoreCompileInputs.cache
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.dll
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\refint\Bil2.dll
+C:\Users\Лада\Desktop\EX\Bil2\Bil2\Bil2\obj\Debug\netstandard2.0\Bil2.pdb
